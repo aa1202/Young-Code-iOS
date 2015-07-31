@@ -26,7 +26,7 @@
         <!--Login View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="LoginViewController" customModule="FoC_Hub" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="LoginViewController" customModule="Young_Code" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -45,7 +45,7 @@
                                 <rect key="frame" x="137" y="445" width="30" height="30"/>
                                 <animations/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="985-vs-0wP" customClass="DesignableButton" customModule="FoC_Hub" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="985-vs-0wP" customClass="DesignableButton" customModule="Young_Code" customModuleProvider="target">
                                 <rect key="frame" x="64" y="300" width="192" height="49"/>
                                 <animations/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -80,7 +80,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
                             </textField>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ibk-xX-TSz" customClass="DesignableButton" customModule="FoC_Hub" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ibk-xX-TSz" customClass="DesignableButton" customModule="Young_Code" customModuleProvider="target">
                                 <rect key="frame" x="64" y="511" width="192" height="49"/>
                                 <animations/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -135,7 +135,7 @@
         <!--View Controller-->
         <scene sceneID="Lch-iB-l04">
             <objects>
-                <viewController storyboardIdentifier="main" id="ebY-gB-o7M" customClass="ViewController" customModule="FoC_Hub" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="main" id="ebY-gB-o7M" customClass="ViewController" customModule="Young_Code" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="NId-U6-gIy"/>
                         <viewControllerLayoutGuide type="bottom" id="NSM-C9-JeR"/>
@@ -148,7 +148,7 @@
                                 <rect key="frame" x="137" y="210" width="30" height="30"/>
                                 <animations/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9X3-rQ-FzN" customClass="DesignableButton" customModule="FoC_Hub" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9X3-rQ-FzN" customClass="DesignableButton" customModule="Young_Code" customModuleProvider="target">
                                 <rect key="frame" x="10" y="72" width="300" height="48"/>
                                 <animations/>
                                 <color key="backgroundColor" red="0.64263558389999997" green="0.63908475639999995" blue="0.68761193750000005" alpha="1" colorSpace="calibratedRGB"/>
@@ -178,7 +178,7 @@
                                     <segue destination="pJJ-3f-hl4" kind="push" id="Fms-YI-xRt"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8k9-ef-b9y" customClass="DesignableButton" customModule="FoC_Hub" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8k9-ef-b9y" customClass="DesignableButton" customModule="Young_Code" customModuleProvider="target">
                                 <rect key="frame" x="10" y="138" width="300" height="52"/>
                                 <animations/>
                                 <color key="backgroundColor" red="0.64263558389999997" green="0.63908475639999995" blue="0.68761193750000005" alpha="1" colorSpace="calibratedRGB"/>
@@ -211,7 +211,7 @@
                                 <rect key="frame" x="-9" y="354" width="339" height="194"/>
                                 <animations/>
                             </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qrf-Dc-wgH" customClass="DesignableButton" customModule="FoC_Hub" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qrf-Dc-wgH" customClass="DesignableButton" customModule="Young_Code" customModuleProvider="target">
                                 <rect key="frame" x="10" y="278" width="300" height="49"/>
                                 <animations/>
                                 <color key="backgroundColor" red="0.59999999999999998" green="0.88627450980392153" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -243,7 +243,7 @@
                                     <action selector="mapRedirect:" destination="ebY-gB-o7M" eventType="touchUpInside" id="5Ab-Yk-O9m"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FOn-C9-aUk" customClass="DesignableButton" customModule="FoC_Hub" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FOn-C9-aUk" customClass="DesignableButton" customModule="Young_Code" customModuleProvider="target">
                                 <rect key="frame" x="10" y="210" width="300" height="50"/>
                                 <animations/>
                                 <color key="backgroundColor" red="0.64263558389999997" green="0.63908475639999995" blue="0.68761193750000005" alpha="1" colorSpace="calibratedRGB"/>
@@ -285,7 +285,7 @@
         <!--Detail View Controller-->
         <scene sceneID="zfk-M4-bXa">
             <objects>
-                <viewController storyboardIdentifier="detail" hidesBottomBarWhenPushed="YES" id="ggb-vP-Gxe" customClass="DetailViewController" customModule="FoC_Hub" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="detail" hidesBottomBarWhenPushed="YES" id="ggb-vP-Gxe" customClass="DetailViewController" customModule="Young_Code" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="I01-ie-7Ng"/>
                         <viewControllerLayoutGuide type="bottom" id="2EJ-Ii-0Bn"/>
@@ -400,7 +400,7 @@
         <!--Comment View Controller-->
         <scene sceneID="qqJ-qI-mrC">
             <objects>
-                <viewController id="Z17-rF-4Ya" customClass="CommentViewController" customModule="FoC_Hub" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Z17-rF-4Ya" customClass="CommentViewController" customModule="Young_Code" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="gwK-Hv-DKe"/>
                         <viewControllerLayoutGuide type="bottom" id="YwH-we-DOF"/>
@@ -446,7 +446,7 @@
         <!--Category View Controller-->
         <scene sceneID="aVf-NM-W8s">
             <objects>
-                <viewController id="pJJ-3f-hl4" customClass="CategoryViewController" customModule="FoC_Hub" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="pJJ-3f-hl4" customClass="CategoryViewController" customModule="Young_Code" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="rRg-kI-vXu"/>
                         <viewControllerLayoutGuide type="bottom" id="Hg8-td-ubp"/>
@@ -455,7 +455,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="48D-lI-bXN" customClass="DesignableButton" customModule="FoC_Hub" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="48D-lI-bXN" customClass="DesignableButton" customModule="Young_Code" customModuleProvider="target">
                                 <rect key="frame" x="20" y="304" width="280" height="47"/>
                                 <animations/>
                                 <color key="backgroundColor" red="0.90196078431372551" green="1" blue="0.90196078431372551" alpha="1" colorSpace="calibratedRGB"/>
@@ -485,7 +485,7 @@
                                     <segue destination="exs-CS-LGN" kind="push" id="VbK-BC-shC"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mcX-Mc-Mg9" customClass="DesignableButton" customModule="FoC_Hub" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mcX-Mc-Mg9" customClass="DesignableButton" customModule="Young_Code" customModuleProvider="target">
                                 <rect key="frame" x="20" y="359" width="280" height="47"/>
                                 <animations/>
                                 <color key="backgroundColor" red="1" green="1" blue="0.90196078431372551" alpha="1" colorSpace="calibratedRGB"/>
@@ -515,7 +515,7 @@
                                     <segue destination="exs-CS-LGN" kind="push" id="5c6-Vv-1t9"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oxR-d9-QY4" customClass="DesignableButton" customModule="FoC_Hub" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oxR-d9-QY4" customClass="DesignableButton" customModule="Young_Code" customModuleProvider="target">
                                 <rect key="frame" x="20" y="414" width="280" height="47"/>
                                 <animations/>
                                 <color key="backgroundColor" red="1" green="0.90196078431372551" blue="0.90196078431372551" alpha="1" colorSpace="calibratedRGB"/>
@@ -549,7 +549,7 @@
                                 <rect key="frame" x="68" y="228" width="184" height="92"/>
                                 <animations/>
                             </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="njL-J0-zdt" customClass="DesignableButton" customModule="FoC_Hub" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="njL-J0-zdt" customClass="DesignableButton" customModule="Young_Code" customModuleProvider="target">
                                 <rect key="frame" x="20" y="154" width="280" height="47"/>
                                 <animations/>
                                 <color key="backgroundColor" red="0.64263558387756348" green="0.63908475637435913" blue="0.68761193752288818" alpha="1" colorSpace="calibratedRGB"/>
@@ -603,7 +603,7 @@
         <!--Second View Controller-->
         <scene sceneID="hqQ-gT-2bI">
             <objects>
-                <viewController id="exs-CS-LGN" customClass="SecondViewController" customModule="FoC_Hub" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="exs-CS-LGN" customClass="SecondViewController" customModule="Young_Code" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Pfx-af-KCM"/>
                         <viewControllerLayoutGuide type="bottom" id="ggt-mH-Rxq"/>
@@ -656,7 +656,7 @@
         <!--Profile View Controller-->
         <scene sceneID="MeK-J3-Lh6">
             <objects>
-                <viewController id="GOP-ID-fH1" customClass="ProfileViewController" customModule="FoC_Hub" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="GOP-ID-fH1" customClass="ProfileViewController" customModule="Young_Code" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="DTD-3x-zdx"/>
                         <viewControllerLayoutGuide type="bottom" id="1MF-CJ-BtS"/>
@@ -767,7 +767,7 @@
         <!--Navigation View Controller-->
         <scene sceneID="3Fh-ZY-GKR">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Cuo-AF-8dk" customClass="NavigationViewController" customModule="FoC_Hub" customModuleProvider="target" sceneMemberID="viewController">
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Cuo-AF-8dk" customClass="NavigationViewController" customModule="Young_Code" customModuleProvider="target" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="raw-bq-92i">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
