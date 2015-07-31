@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E10FF6BA1B6984B2002BC1F3 /* TODO in Resources */ = {isa = PBXBuildFile; fileRef = E10FF6B91B6984B2002BC1F3 /* TODO */; };
+		E172127B1B6BD31F00353C94 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = E172127A1B6BD31F00353C94 /* README.md */; };
 		E175FBC11B6ACD20002B9B45 /* CustomButtonOrView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E175FBC01B6ACD20002B9B45 /* CustomButtonOrView.swift */; };
 		E17CC3A61B6AE1240022576C /* NavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17CC3A51B6AE1240022576C /* NavigationViewController.swift */; };
 		E17CC3AA1B6B808A0022576C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E17CC3A81B6B808A0022576C /* Main.storyboard */; };
@@ -45,6 +46,7 @@
 /* Begin PBXFileReference section */
 		E10FF6B91B6984B2002BC1F3 /* TODO */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = TODO; path = ../TODO; sourceTree = "<group>"; };
 		E11C908C1B6BA9D000AA3370 /* Questrial-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Questrial-Regular.ttf"; sourceTree = "<group>"; };
+		E172127A1B6BD31F00353C94 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		E175FBC01B6ACD20002B9B45 /* CustomButtonOrView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButtonOrView.swift; sourceTree = "<group>"; };
 		E17CC3A51B6AE1240022576C /* NavigationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationViewController.swift; sourceTree = "<group>"; };
 		E17CC3A91B6B808A0022576C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 				E17CC3A81B6B808A0022576C /* Main.storyboard */,
 				E11C908C1B6BA9D000AA3370 /* Questrial-Regular.ttf */,
 				E183C4C31B67972300C6F951 /* Info.plist */,
+				E172127A1B6BD31F00353C94 /* README.md */,
 			);
 			path = "FoC-Hub";
 			sourceTree = "<group>";
@@ -311,6 +314,7 @@
 				E1D332F11B68DD2600142598 /* DetailViewController.swift in Sources */,
 				E183C4EA1B67AADD00C6F951 /* ProfileViewController.swift in Sources */,
 				E17CC3A61B6AE1240022576C /* NavigationViewController.swift in Sources */,
+				E172127B1B6BD31F00353C94 /* README.md in Sources */,
 				E183C4B81B67972200C6F951 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
