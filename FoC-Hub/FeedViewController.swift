@@ -77,7 +77,7 @@ class SecondViewController: UIViewController, UITableViewDelegate, UITableViewDa
                 
                 
                 //print(jsonObject.count)
-                print(jsonObject)
+                //print(jsonObject)
                 var color: UIColor
                 //Loops trough every item in jsonObject and saves title of each item in titleList
                 for i in 0..<jsonObject.count {

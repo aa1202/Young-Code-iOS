@@ -234,11 +234,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FoC-Hub/ProfileViewController.swift"
-            timestampString = "460043957.179996"
+            timestampString = "460056814.162525"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "86"
-            endingLineNumber = "86"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
             landmarkName = "fetchData(_:)"
             landmarkType = "5">
          </BreakpointContent>

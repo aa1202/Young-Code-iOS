@@ -32,6 +32,9 @@ class ProfileViewController: UIViewController {
     }
     
     
+    @IBAction func refreshProfile(sender: AnyObject) {
+        fetchData(self)
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()

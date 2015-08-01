@@ -54,7 +54,7 @@ class DetailViewController: UIViewController {
     
     @IBAction func votePost(sender: AnyObject) {
         
-            let url = NSURL(string: "http://norbye.com/-other-/Festival%20of%20Code/API/index.php?votepost=\(postID)&user=\(1)")
+            let url = NSURL(string: "http://norbye.com/-other-/Festival%20of%20Code/API/index.php?votepost=\(postID)&user=\(currentProfileID)")
             let task = NSURLSession.sharedSession().dataTaskWithURL(url!) {(data, response, error) in
                 
                 let success = NSString(data: data!, encoding: NSUTF8StringEncoding)
@@ -110,7 +110,7 @@ class DetailViewController: UIViewController {
                  jsonObject = try NSJSONSerialization.JSONObjectWithData(data!, options: NSJSONReadingOptions.AllowFragments) as! NSArray
                 
                 //print(jsonObject.count)
-                //print(jsonObject)
+                print(jsonObject)
                 //print(idChosen)
                 
                 
