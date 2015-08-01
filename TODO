@@ -1,11 +1,8 @@
 TODO:
 
-
-
 1. Save login information in app (check out Udemy tutorial)
 2. Implement pop up alerts (for instance if the username and password combination is wrong)
 3. Fix first responder
-
 
 
 TODO SOMETIME LATER:
@@ -13,6 +10,3 @@ TODO SOMETIME LATER:
 - Convert to universal app with constraints
 - Redesign the app
 - Test out the app at iPhone device
-
-Test if Git works
-TEST
